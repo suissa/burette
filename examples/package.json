@@ -9,6 +9,6 @@
   "author": "Attila Bagossy",
   "license": "Apache-2.0",
   "dependencies": {
-    "joi": "^10.2.0"
+    "joi": "^18.2.1"
   }
 }
